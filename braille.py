@@ -447,7 +447,6 @@ def braille_to_string():
   letters = get_letters()
   ans = translate(letters)
 
-
   #plt.axis('off')
   #io.imshow(image)
   #plt.show()
